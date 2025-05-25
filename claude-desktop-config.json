@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "godot4": {
+      "command": "node",
+      "args": ["/home/chris/proj/claude/mcp/godot4_mcp/src/index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
