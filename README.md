@@ -27,6 +27,7 @@ Estragon is an innovative implementation of the MCP protocol for Godot 4, enabli
 
 For detailed setup instructions, check out:
 - [Godot Setup](docs/GODOT_SETUP.md)
+- [Client Setup](docs/CLIENT_SETUP.md) - Setup instructions for popular clients (Claude Desktop, MUSHclient, TinyFugue, zMUD, and web clients)
 - [Claude Setup](docs/SETUP_CLAUDE.md)
 
 ## 🤝 Contributing
