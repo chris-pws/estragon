@@ -1,22 +1,38 @@
-# Estragon
+# 🌿 Estragon - Godot 4 MCP Protocol
 
-A Godot 4 MCP (Multi-Client Protocol) implementation.
+A fresh take on game networking, built with 🍀 and 🌟
 
-## Documentation
+## 🚀 Overview
 
-For detailed documentation, see the [docs](docs/) directory:
-- [README.md](docs/README.md) - Project overview
-- [GODOT_SETUP.md](docs/GODOT_SETUP.md) - Godot setup instructions
-- [SETUP_CLAUDE.md](docs/SETUP_CLAUDE.md) - Claude setup instructions
-- [DEVELOPMENT_WORKLOG.md](docs/DEVELOPMENT_WORKLOG.md) - Development work log
-- [DEBUG_HANDOFF.md](docs/DEBUG_HANDOFF.md) - Debug handoff documentation
+Estragon is an innovative implementation of the MCP protocol for Godot 4, enabling seamless communication between your game and external clients. Whether you're building a multiplayer experience or integrating with other systems, Estragon makes it easy to connect.
 
-## Project Structure
+## 📦 Project Structure
 
-- `src/` - Source code
-- `godot-plugin/` - Godot plugin implementation
-- `test-*.js` - Test files
+```
+📦 estragon/
+├── 📁 src/             # Core implementation
+├── 📁 godot-plugin/    # Godot plugin
+├── 📁 test/            # Test files
+└── 📁 docs/           # Documentation
+```
 
-## Development
+## 🌱 Key Features
 
-This project implements MCP protocol support for Godot 4, enabling communication between Godot games and external clients.
+- 🎮 Seamless Godot 4 integration
+- 🔌 Flexible client protocol support
+- 🛠️ Comprehensive test suite
+- 📚 Well-documented API
+
+## 🛠️ Setup
+
+For detailed setup instructions, check out:
+- [Godot Setup](docs/GODOT_SETUP.md)
+- [Claude Setup](docs/SETUP_CLAUDE.md)
+
+## 🤝 Contributing
+
+We welcome contributions! Please feel free to submit issues and pull requests.
+
+## 📜 License
+
+MIT License - feel free to use this project however you like!
